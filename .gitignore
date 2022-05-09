@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+*.json
+*.pdf
+*.txt
+*.jar
+*.xml
+*.yml
